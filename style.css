@@ -1,0 +1,242 @@
+
+
+                            /* homepage start */
+
+
+#bgimg{
+    background: scroll;
+    width: 150vh;
+    height:80vh;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    opacity: 0.15;
+
+}
+
+    .container1{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    border: 5px;
+
+}
+
+
+.para{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 30px;
+    position: absolute;
+  left: 80px;
+  right: 80px;
+  top: 200px;
+  z-index: 1;
+  font-size: larger;
+  
+  
+
+
+}
+.navbar-nav{ font-style: italic;
+
+
+
+}
+.nav-item:hover{ 
+    font-style: italic;
+    font-size: larger;
+}
+                          /* homepage end */
+
+
+      /* about customer page start */
+ 
+
+      
+                       
+       
+
+.date{
+    color: darkblue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:larger;
+    position: absolute;
+    right: 80px;
+    top: 70px;
+    z-index: 1;
+
+}                       
+#date{
+    outline: none;
+    border: 0;
+    margin-bottom: 10px;
+    margin-right: 80px;
+    
+}
+#file{
+    margin-right: 80px;
+    border: 0;
+    outline: none;
+
+}
+
+.name{
+    margin-top: 80px;
+    margin-left: 60px;
+    align-items: center;
+    color: darkblue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:larger;
+    position: absolute; 
+    left: 80px;
+    top: 100px;
+    z-index: 1;
+}
+
+#customername{
+    outline: none;
+    border: 0;
+
+
+}
+#address{
+    width:400px;
+    height: 30px;
+    margin-top: 10px;
+    outline: none;
+    border: 0;
+    font-size: medium;
+
+}
+
+.para2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 30px;
+    position: absolute;
+  left: 80px;
+  right: 80px;
+  top: 320px;
+  z-index: 1;
+  font-size: larger;
+  
+  
+
+
+}
+
+
+.para3{
+    
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 30px;
+    position: absolute;
+  left: 80px;
+  right: 80px;
+  top: 100px;
+  z-index: 1;
+  font-size:x-large;
+}
+
+#num{
+    width: 70px;
+    height: 25px;
+    outline: none;
+    border: 0;
+}
+#days{
+    width: 60px;
+    height: 25px;
+    outline: none;
+    border: 0;
+}
+
+.main{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0px;
+    position: absolute;
+  left: 5px;
+  right: 5px;
+  top: 120px;
+  z-index: 1;
+  font-size:large;
+  
+}
+
+.contact{
+    float: right;
+    padding-top: 30px;
+}
+
+
+                 /* tabel */
+
+    .head{
+        text-align: center;
+    }
+ .tabletop{
+    text-align: center;
+    border-top : 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    margin-bottom: 0px;
+    width: 100%;
+ }  
+
+ table{
+    right: 0px;
+ }
+ tr td {
+    border: 2px solid black !important;
+    text-align: center;
+    
+  }  
+  thead tr th{
+    border: 2px solid black !important;
+    text-align: center;
+  }
+  th {
+    border: 2px solid black !important;
+    font-size: x-large;
+  }  
+  #number {
+    width: 60px;
+    height: 25px;
+    outline: none;
+    border: 0;
+  } 
+  
+  #price {
+    width: 120px;
+    height: 25px;
+    outline: none;
+    border: 0;
+  }
+ 
+  #tel {
+    width: 150px;
+    height: 25px;
+    outline: none;
+    border: 0;
+
+  }
+  #text{
+    outline: none;
+    border: 0;
+  }
+  .kw{
+    text-align: center;
+  }
+  #kw{ 
+    width: 70px;
+    height: 25px;
+    outline: none;
+    border: 0;
+    border-bottom: 2px solid black;
+    color: blue;
+
+  }
+
+  #footer {
+    font-size: x-large;
+    font-weight: 800;
+  }
+  
